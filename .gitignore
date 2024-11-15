@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-python-ds-ml-master-2*
 
 # C extensions
 *.so
